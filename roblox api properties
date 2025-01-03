@@ -2224,5 +2224,10 @@
         "Color",
         "DebugMode",
         "Stiffness"
+    ],
+    "DragDetector": [
+        "CursorIcon",
+        "MaxDragAngle",
+        "Responsiveness
     ]
 }
