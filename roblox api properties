@@ -1757,6 +1757,7 @@
         "ClipsDescendants",
         "Face",
         "LightInfluence",
+        "MaxDistance",
         "PixelsPerStud",
         "SizingMode",
         "ToolPunchThroughDistance",
