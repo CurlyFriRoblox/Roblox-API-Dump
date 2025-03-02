@@ -1919,7 +1919,8 @@
         "TextTruncate",
         "TextWrapped",
         "TextXAlignment",
-        "TextYAlignment"
+        "TextYAlignment",
+        "OpenTypeFeatures"
     ],
     "TextSource": [
         "CanSend",
