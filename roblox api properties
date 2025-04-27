@@ -1589,22 +1589,9 @@
         "TimeScale"
     ],
     "Sound": [
-        "ChannelCount",
-        "IsLoaded",
-        "IsPaused",
-        "IsPlaying",
-        "Looped",
-        "PlayOnRemove",
-        "PlaybackLoudness",
         "PlaybackSpeed",
-        "Playing",
         "RollOffMaxDistance",
-        "RollOffMinDistance",
-        "RollOffMode",
-        "SoundGroup",
         "SoundId",
-        "TimeLength",
-        "TimePosition",
         "Volume"
     ],
     "SoundEffect": [
